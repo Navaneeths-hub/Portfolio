@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Production build outputs
+dist/
+dist-ssr/
+
+# Environment and local settings
+*.local
+.env
+.env.*.local
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Figma Make runtime artifacts (if any)
+.figma/
+.mise.toml
